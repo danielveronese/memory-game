@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b0ae19d-77ae-490a-bf24-b5cfb92b3707": {
+      "ProjectGuid": "4b0ae19d-77ae-490a-bf24-b5cfb92b3707",
+      "DisplayName": "MemoryMatchingGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
